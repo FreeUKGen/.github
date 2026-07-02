@@ -1,6 +1,6 @@
 <h1>
   <a href="https://www.freeukgenealogy.org.uk/">
-  <img alt="FreeUKGenealogy logo" src="https://github.com/freeukgen/.github/images/.png?raw=true" height="34">
+  <img alt="FreeUKGenealogy logo" src="https://github.com/FreeUKGen/.github/blob/main/images/HTFT-full-logo.png?raw=true">
   </picture></a>
 </h1>
 
